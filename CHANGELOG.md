@@ -3,3 +3,4 @@
 [2025-03-25 18:03:11] Memperbarui dokumentasi di Aleo-Prover
 [2025-03-25 18:03:14] Memperbarui dependensi di Aleo-Prover
 [2025-03-25 18:03:16] Memperbarui dependensi di Aleo-Prover
+[2025-03-25 18:03:18] Menambahkan fitur kecil di Aleo-Prover
